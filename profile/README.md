@@ -1,7 +1,7 @@
 # 0verDay
 
 友链：
-[轶名的主页](yuyi.online)
+yuyi.online
 
 ## 实事造英雄
 
