@@ -1,9 +1,16 @@
 # 0verDay
 
-友链：
+**深耕于游戏事业，曾经的幻想家，现在的实干家**
 
-- [轶名的个人博客](yuyi.online)
+官方邮箱：OverDay@yeah.net
 
 ## 实事造英雄
 
 丢掉幻想，准备斗争
+
+## 成员
+
+- 轶名
+  - 个人网站：yuyi.online
+  - github：@yuyi-yutie
+  - 个人邮箱：yy1973100@163.com
