@@ -22,6 +22,9 @@
   - 建立github托管静态网站: 0verDay.github.io
   - 开始开发0verClient
 
+- 2026.5.15
+  - 开始开发nsoc
+
 ## 成员
 
 1. 轶名
