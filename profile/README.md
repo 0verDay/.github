@@ -35,5 +35,5 @@
 
 1. 轶名
 - 个人网站： yuyi.online
-- github页： [@yuyi-yutie](https://github.com/yuyi-yutie)
+- github页： [@yuyi-yutie](https://github.com/yuyi-yutie) [@yuyi-y1s](https://github.com/yuyi-y1s)
 - 个人邮箱： yy1973100@163.com
